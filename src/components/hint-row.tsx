@@ -25,6 +25,7 @@ export function HintRow({
   );
 }
 
+
 const styles = StyleSheet.create({
   stepRow: {
     flexDirection: "row",
